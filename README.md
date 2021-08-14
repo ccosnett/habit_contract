@@ -26,3 +26,5 @@
 ## Accountability
 
 James has to check Conor's evidence every Sunday and retrieve fines or he has to pay a fine of 500 euros.
+
+
