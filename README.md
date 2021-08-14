@@ -1,14 +1,13 @@
-# Habit Contract:
+## Habit Contract:
 
 > StartDate: 14th August 2021:
+
 > EndDate: 01 September 2021:
 
-# Parties:
+## Parties:
 
 - Conor Cosnett
 - James Branigan
-
-I Conor Cosnett agree to the following habits:
 
 1. I have to get out of bed before 08:00
     * quota: 5 days a week
