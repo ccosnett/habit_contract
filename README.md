@@ -7,7 +7,7 @@
 ## Parties:
 
 - Conor
-- James
+- James 
 
 ## Habits
 
@@ -16,7 +16,7 @@
     * *fine:* €10 per day missed
     * *evidence:* sleep measurement in Whoop screenshot in sub folders
 
-## Accountability
+## Habit Buddy Committments
 
 James has to check Conor's evidence every Sunday and retrieve fines or he has to pay a fine of €500.
 
