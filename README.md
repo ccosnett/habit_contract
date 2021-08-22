@@ -3,7 +3,7 @@ Habit No.  |   1.      |  2.    | 3.     |   4.  |    5.     |   6.|
 ---        | ---       | ---    | ---    |---    |---        |---  |
 Habit desc.| out of bed| run    | 50 bp  | 50 bp | workout3  | anki|
 Sun 22nd   | ⬜️       |   :white_square_button:   |   :white_square_button:    |   f   |    f      | f   |
-Mon 23nd   |  ⬜️       |   ⬜️  |   f    |   f   |    f      | f   |
+Mon 23nd   |  ⬜️       |   :black_square_button:  |   f    |   f   |    f      | f   |
 Tue 24nd   |  ⬜️      |   ⬜️   |   f    |   f   |    f      | f   |
 Wed 25nd   |  ⬜️      |   ::  |   f    |   f   |    f      | f   |
 Thu 26nd   |  ⬜️       |   [ ]  |   f    |   f   |    f      | f   |
