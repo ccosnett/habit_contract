@@ -2,7 +2,7 @@
 Habit No.  |   1.      |  2.  | 3.     |   4.  |    5.     |   6.| 
 ---        | ---       | ---  | ---    |---    |---        |---  |    
 Habit desc.| out of bed| run  | 50 bp  | 50 bp | workout3  | anki|  
-Sun 22nd   |    0      |   1  |   1    |       |           |     |
+Sun 22nd   |    0      |   1  |   1    |   0   |    0     | 0    |
 
 
 
