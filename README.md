@@ -1,8 +1,9 @@
 # Completion Table:
-
-Attempt | #1  | #2  | #3  | #4  | #5  | #6  | #7  | #8  | #9  | #10 | #11
----     | --- | --- | --- |---  |---  |---  |---  |---  |---  |---  |---
-Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269
+         |   1       |  2   | 3
+---      | ---       | ---  | --- |---  |---  |---  |---  |---  |---  |---  |---        
+Habit    | out of bed| run  | 50 bp  | 50bp  | workout3  | anki  | #7  | #8  | #9  | #10 | #11
+---      | ---       | ---  |---  |---  |---  |---  |---  |---  |---  |---
+Seconds  | 301 | 283 | 290  | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269
 
 
 
@@ -48,7 +49,7 @@ Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269
     * *fine:* €10 per day missed
     * *evidence:* weightlifting Whoop screenshot in sub folders
 
-6. 50 language flashcards
+6. 50 anki language flashcards
     * *quota* 5 days a week
     * *fine:* €10 per day missed
     * *evidence:* anki screenshot in sub folders
