@@ -1,3 +1,15 @@
+# Completion Table:
+
+Attempt | #1  | #2  | #3  | #4  | #5  | #6  | #7  | #8  | #9  | #10 | #11
+---     | --- | --- | --- |---  |---  |---  |---  |---  |---  |---  |---
+Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269
+
+
+
+
+
+
+
 # Habit Contract:
 
 > StartDate: 14th August 2021:
@@ -44,5 +56,16 @@
 ## Habit Buddy Committments
 
 James has to check Conor's evidence every Sunday and retrieve fines or he has to pay a fine of €500.
+
+
+
+
+
+
+
+
+
+
+
 
 
