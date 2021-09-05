@@ -35,32 +35,32 @@ Sun 29th   |  🔳       |   🔳   |   🔳   |  🔳  |   🔳    |  🔳  |
 
 1. out of bed before 08:00 
     * *quota:* 5 days a week
-    * *fine:* €10 per day missed
+    * *fine:* €2 per day missed
     * *evidence:* sleep measurement in Whoop screenshot in sub folders
 
 2. 1000 m run 
     * *quota* 5 days a week
-    * *fine:* €10 per day missed
+    * *fine:* €2 per day missed
     * *evidence:* run measurement in Whoop screenshot in sub folders
 
 3. 50 bench presses (morning)
     * *quota* 5 days a week
-    * *fine:* €10 per day missed
+    * *fine:* €2 per day missed
     * *evidence:* weightlifting Whoop screenshot in sub folders
  
 4. 50 bench presses (after 18:00)
     * *quota* 5 days a week
-    * *fine:* €10 per day missed
+    * *fine:* €2 per day missed
     * *evidence:* weightlifting Whoop screenshot in sub folders
 
 5. workout3 (20 situps, 20 kettle bell lifts, 40 pressups) (after 18:00)
     * *quota* 5 days a week
-    * *fine:* €10 per day missed
+    * *fine:* €2 per day missed
     * *evidence:* weightlifting Whoop screenshot in sub folders
 
 6. 50 anki language flashcards
     * *quota* 5 days a week
-    * *fine:* €10 per day missed
+    * *fine:* €2 per day missed
     * *evidence:* anki screenshot in sub folders
 
 ## Habit Buddy Committments
