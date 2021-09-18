@@ -3,22 +3,22 @@
 Habit No.  |   1.      |  2.    | 3.     |   4.  |    5.    |   6.| 
 ---        | ---       | ---    | ---    |---    |---       |---  |
 Habit desc.| out of bed| run    | 50 bp  | 50 bp | workout3 | anki|
----        | ---       | ---    | ---    | ---   | ---    | ---  |
-Sat 18th   |  ⬜        |   ⬜    |   ⬜    |  ⬜   |   ⬜     |  ⬜   |
+---        | ---       | ---    | ---    | ---   | ---     | ---  |
+Sat 18th   |  ⬜        |   🔳   |   🔳   |  🔳  |   🔳    |  🔳  |
 Fri 17th   |  ⬜        |   ⬜    |   ⬜    |  ⬜   |   ⬜     |  ⬜   |
-Thu 16th   |  ⬜        |   ⬜    |   ⬜    |  ⬜   |   ⬜     |  ⬜   |
-Wed 15th   |  ⬜        |   ⬜    |   ⬜    |  ⬜   |   ⬜     |  ⬜   |
-Tue 14th   |  ⬜        |   ⬜    |   ⬜    |  ⬜   |   ⬜     |  ⬜   |
-Mon 13th   |  ⬜        |   ⬜    |   ⬜    |  ⬜   |   ⬜     |  ⬜   |
-Sun 12th   |  ⬜        |   ⬜    |   ⬜    |  ⬜   |   ⬜     |  ⬜   |
+Thu 16th   |  ⬜        |   ⬜    |   ⬜    |  ⬜   |   ⬜     |  🔳  |
+Wed 15th   |  ⬜        |   🔳   |   🔳   |  ⬜   |   ⬜     |  ⬜   |
+Tue 14th   |  ⬜        |   🔳   |   🔳   |  🔳  |  🔳     |  ⬜   |
+Mon 13th   |  🔳       |   🔳   |   🔳   |  ⬜   |   ⬜     |  ⬜   |
+Sun 12th   |  ⬜        |   🔳   |   🔳   |  ⬜   |   ⬜     |  ⬜   |
 ---        | ---       | ---    | ---    | ---  | ---     | ---  |
-Sat 11th   |  ⬜        |   ⬜    |   ⬜    |  ⬜   |   ⬜     |  ⬜   |
-Fri 10th   |  ⬜        |   ⬜    |   ⬜    |  ⬜   |   ⬜     |  ⬜   |
-Thu 09th   |  ⬜        |   ⬜    |   ⬜    |  ⬜   |   ⬜     |  ⬜   |
-Wed 08th   |  ⬜        |   ⬜    |   ⬜    |  ⬜   |   ⬜     |  ⬜   |
-Tue 07th   |  ⬜        |   ⬜    |   ⬜    |  ⬜   |   ⬜     |  ⬜   |
-Mon 06th   |  ⬜        |   ⬜    |   ⬜    |  ⬜   |   ⬜     |  ⬜   |
-Sun 05th   |  ⬜        |   ⬜    |   ⬜    |  ⬜   |   ⬜     |  ⬜   |
+Sat 11th   |  ⬜        |   🔳   |   🔳   |  🔳  |   🔳    |  🔳  |
+Fri 10th   |  🔳       |   🔳   |   🔳   |  🔳  |   🔳    |  🔳  |
+Thu 09th   |  ⬜        |   🔳   |   🔳   |  🔳  |   🔳    |  🔳  |
+Wed 08th   |  🔳       |   🔳   |   🔳   |  ⬜   |   ⬜     |  ⬜   |
+Tue 07th   |  🔳       |   🔳   |   🔳   |  🔳  |   🔳    |  🔳  |
+Mon 06th   |  🔳       |   🔳   |   🔳   |  🔳  |   🔳    |  🔳  |
+Sun 05th   |  ⬜        |   🔳   |   🔳   |  🔳  |   🔳    |  🔳  |
 ---        | ---       | ---    | ---    | ---  | ---     | ---  |
 Sat 04th   |  ⬜        |   🔳   |   🔳   |  🔳  |   🔳    |  🔳  |
 Fri 03th   |  ⬜        |   🔳   |   🔳   |  ⬜   |   ⬜     |  🔳  |
@@ -37,20 +37,6 @@ Mon 23rd   |  🔳       |   🔳   |   🔳   |  🔳  |    🔳    |  🔳  |
 Sun 22nd   |  ⬜        |   🔳   |   🔳   |  🔳  |    🔳    |  🔳  |
 
 
-
-
-
-
-
-
-
-
-
-
-
-
----        | ---       | ---    | ---    | ---  | ---     | ---  |
-Sun 29th   |  🔳       |   🔳   |   🔳   |  🔳  |   🔳    |  🔳  |
 
 # Habit Contract:
 
@@ -74,21 +60,25 @@ Sun 29th   |  🔳       |   🔳   |   🔳   |  🔳  |   🔳    |  🔳  |
     * *quota* 5 days a week
     * *fine:* €2 per day missed
     * *evidence:* run measurement in Whoop screenshot in sub folders
+    * can be reduced during injury	   
 
 3. 50 bench presses (morning)
     * *quota* 5 days a week
     * *fine:* €2 per day missed
     * *evidence:* weightlifting Whoop screenshot in sub folders
+    * can be reduced during injury
  
 4. 50 bench presses (after 18:00)
     * *quota* 5 days a week
     * *fine:* €2 per day missed
     * *evidence:* weightlifting Whoop screenshot in sub folders
+    * can be reduced during injury		 
 
 5. workout3 (20 situps, 20 kettle bell lifts, 40 pressups) (after 18:00)
     * *quota* 5 days a week
     * *fine:* €2 per day missed
     * *evidence:* weightlifting Whoop screenshot in sub folders
+    * can be reduced during injury		 
 
 6. 50 anki language flashcards
     * *quota* 5 days a week
