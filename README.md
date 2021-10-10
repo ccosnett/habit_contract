@@ -74,11 +74,11 @@ Sun 22nd   |  ⬜        |   🔳   |   🔳   |  🔳  |    🔳    |  🔳  |
 ## Habits
 
 1. out of bed before 08:00 
-    * *quota:* 5 days a week
+    * *quota:* 2 days a week
     * *fine:* €2 per day missed
     * *evidence:* sleep measurement in Whoop screenshot in sub folders
 
-2. 1000 m run 
+2. 1700 m run 
     * *quota* 5 days a week
     * *fine:* €2 per day missed
     * *evidence:* run measurement in Whoop screenshot in sub folders
@@ -91,19 +91,19 @@ Sun 22nd   |  ⬜        |   🔳   |   🔳   |  🔳  |    🔳    |  🔳  |
     * can be reduced during injury
  
 4. 50 bench presses (after 18:00)
-    * *quota* 5 days a week
+    * *quota* 1 days a week
     * *fine:* €2 per day missed
     * *evidence:* weightlifting Whoop screenshot in sub folders
     * can be reduced during injury		 
 
 5. workout3 (20 situps, 20 kettle bell lifts, 40 pressups) (after 18:00)
-    * *quota* 5 days a week
+    * *quota* 1 days a week
     * *fine:* €2 per day missed
     * *evidence:* weightlifting Whoop screenshot in sub folders
     * can be reduced during injury		 
 
 6. 50 anki language flashcards
-    * *quota* 5 days a week
+    * *quota* 1 days a week
     * *fine:* €2 per day missed
     * *evidence:* anki screenshot in sub folders
 
